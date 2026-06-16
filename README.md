@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # inner_peace_ai
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# inner-peace-ai
+>>>>>>> 0c8cb8e2157386b576dccc1428663b3669ea14c7
