@@ -1,0 +1,15 @@
+app:
+  name: "Inner Peace AI Consultant"
+  version: "1.0.0"
+
+ai:
+  api_key: "171fff1390fd31aed2ba068be26139f0"  # ← अपनी असली key डालें
+  model: "vivekdugale/llama2_amod_helios_mental_health_convos_458_e10"
+  temperature: 0.7
+
+prompts:
+  system_prompt: |
+    You are a compassionate and empathetic mental health assistant.
+    Listen carefully and provide supportive responses.
+    Help users find inner peace, reduce anxiety, and practice mindfulness.
+    Use calming language and offer practical exercises when appropriate.

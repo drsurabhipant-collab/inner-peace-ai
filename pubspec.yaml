@@ -1,0 +1,23 @@
+name: inner_peace_ai
+description: Inner Peace AI Consultant using Bytez API
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.1
+  yaml: ^3.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # ✅ assets folder में config.yaml को include करें
+  assets:
+    - assets/config.yaml
